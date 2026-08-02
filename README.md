@@ -57,22 +57,6 @@ The default notebook creates a `2000 m × 2000 m` area with 36 infrastructure no
   <img src="./figs/vlc_pro.png" width="92%" alt="GESAC resource-management architecture"/>
 </p>
 
-```mermaid
-flowchart TD
-    A["Hybrid RF-VLC simulator"] --> B["12 values per infrastructure node"]
-    B --> C["Node-type augmentation"]
-    C --> D["Bidirectional nearest-neighbor graph"]
-    D --> E["Two edge-update GNN layers"]
-    E --> F["Squashed Gaussian SAC actor"]
-    F --> G["Power and channel-share actions"]
-    G --> H["Feasibility, association, and mobility update"]
-    H --> A
-    H --> I["Replay buffer and critic updates"]
-    I --> E
-```
-
-The main implementation uses the following tensor structure:
-
 ```text
 Environment observation
   shape: (36 nodes, 12 features)
