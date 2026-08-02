@@ -1,0 +1,1550 @@
+Episode 10:
+  Frame: 2000
+  Mean Episode Reward: 0.0114
+  Total Episode Reward: 2.2854
+  Info Metrics:
+    total_data_rate: 1538.3584
+    ma_data_rate: 1053.2930
+    vlc_data_rate: 485.0654
+    total_power: 35921.5039
+    total_ma_power: 21650.1445
+    total_vlc_power: 14271.3604
+    total_channel: 426.2600
+    total_ma_channel: 108.0000
+    total_vlc_channel: 318.2600
+    total_bandwidth: 3377.0000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3182.6000
+    total_assigned_ma_bandwidth: 124.1730
+    total_assigned_vlc_bandwidth: 67.4000
+    ma_snr: 30.0000
+    vlc_snr: 16.9058
+    ma_coverage_count: 101.9050
+    vlc_coverage_count: 7.7550
+    ma_power_efficiency: 0.0489
+    vlc_power_efficiency: 0.0333
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 33.8198
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3170
+
+Episode 20:
+  Frame: 4000
+  Mean Episode Reward: 0.0092
+  Total Episode Reward: 1.8469
+  Info Metrics:
+    total_data_rate: 1163.4417
+    ma_data_rate: 764.6432
+    vlc_data_rate: 398.7985
+    total_power: 31296.8750
+    total_ma_power: 14720.7871
+    total_vlc_power: 16576.0898
+    total_channel: 466.7150
+    total_ma_channel: 94.7850
+    total_vlc_channel: 371.9300
+    total_bandwidth: 3889.9130
+    total_ma_bandwidth: 170.6130
+    total_vlc_bandwidth: 3719.3000
+    total_assigned_ma_bandwidth: 90.1440
+    total_assigned_vlc_bandwidth: 55.4500
+    ma_snr: 30.0000
+    vlc_snr: 17.4536
+    ma_coverage_count: 65.3800
+    vlc_coverage_count: 6.1550
+    ma_power_efficiency: 0.0542
+    vlc_power_efficiency: 0.0239
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 9.8500
+    average_latency: 50.2150
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3347
+
+Episode 30:
+  Frame: 6000
+  Mean Episode Reward: 0.0126
+  Total Episode Reward: 2.5121
+  Info Metrics:
+    total_data_rate: 1484.0612
+    ma_data_rate: 856.7882
+    vlc_data_rate: 627.2730
+    total_power: 40141.5508
+    total_ma_power: 20020.0273
+    total_vlc_power: 20121.5234
+    total_channel: 430.3200
+    total_ma_channel: 108.0000
+    total_vlc_channel: 322.3200
+    total_bandwidth: 3417.6000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3223.2000
+    total_assigned_ma_bandwidth: 101.0070
+    total_assigned_vlc_bandwidth: 87.1500
+    ma_snr: 30.0000
+    vlc_snr: 16.9017
+    ma_coverage_count: 81.4650
+    vlc_coverage_count: 9.7450
+    ma_power_efficiency: 0.0428
+    vlc_power_efficiency: 0.0311
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 44.6794
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3449
+
+Episode 40:
+  Frame: 8000
+  Mean Episode Reward: 0.0110
+  Total Episode Reward: 2.1960
+  Info Metrics:
+    total_data_rate: 1673.9668
+    ma_data_rate: 1095.2812
+    vlc_data_rate: 578.6856
+    total_power: 43733.3438
+    total_ma_power: 27338.2402
+    total_vlc_power: 16395.1016
+    total_channel: 429.3450
+    total_ma_channel: 108.0000
+    total_vlc_channel: 321.3450
+    total_bandwidth: 3407.8500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3213.4500
+    total_assigned_ma_bandwidth: 129.1230
+    total_assigned_vlc_bandwidth: 80.4500
+    ma_snr: 30.0000
+    vlc_snr: 16.9175
+    ma_coverage_count: 110.9550
+    vlc_coverage_count: 8.7900
+    ma_power_efficiency: 0.0404
+    vlc_power_efficiency: 0.0352
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 30.2856
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3428
+
+Episode 50:
+  Frame: 10000
+  Mean Episode Reward: 0.0128
+  Total Episode Reward: 2.5644
+  Info Metrics:
+    total_data_rate: 1609.6832
+    ma_data_rate: 854.1163
+    vlc_data_rate: 755.5670
+    total_power: 40789.1680
+    total_ma_power: 20020.0312
+    total_vlc_power: 20769.1348
+    total_channel: 481.8500
+    total_ma_channel: 108.0000
+    total_vlc_channel: 373.8500
+    total_bandwidth: 3932.9000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3738.5000
+    total_assigned_ma_bandwidth: 100.6920
+    total_assigned_vlc_bandwidth: 104.9500
+    ma_snr: 30.0000
+    vlc_snr: 17.6566
+    ma_coverage_count: 76.9800
+    vlc_coverage_count: 12.8350
+    ma_power_efficiency: 0.0427
+    vlc_power_efficiency: 0.0363
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 44.8629
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3540
+
+Episode 60:
+  Frame: 12000
+  Mean Episode Reward: 0.0099
+  Total Episode Reward: 1.9896
+  Info Metrics:
+    total_data_rate: 1413.7696
+    ma_data_rate: 935.1153
+    vlc_data_rate: 478.6543
+    total_power: 36448.3438
+    total_ma_power: 20131.4980
+    total_vlc_power: 16316.8447
+    total_channel: 461.5700
+    total_ma_channel: 102.7500
+    total_vlc_channel: 358.8200
+    total_bandwidth: 3773.1500
+    total_ma_bandwidth: 184.9500
+    total_vlc_bandwidth: 3588.2000
+    total_assigned_ma_bandwidth: 110.2410
+    total_assigned_vlc_bandwidth: 66.5500
+    ma_snr: 30.0000
+    vlc_snr: 17.7201
+    ma_coverage_count: 84.2650
+    vlc_coverage_count: 8.1000
+    ma_power_efficiency: 0.0487
+    vlc_power_efficiency: 0.0293
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 39.8690
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3429
+
+Episode 70:
+  Frame: 14000
+  Mean Episode Reward: -0.0152
+  Total Episode Reward: -3.0366
+  Info Metrics:
+    total_data_rate: 1051.5712
+    ma_data_rate: 616.5394
+    vlc_data_rate: 435.0318
+    total_power: 35254.2305
+    total_ma_power: 20020.1875
+    total_vlc_power: 15234.0410
+    total_channel: 474.0050
+    total_ma_channel: 91.4300
+    total_vlc_channel: 382.5750
+    total_bandwidth: 3990.3240
+    total_ma_bandwidth: 164.5740
+    total_vlc_bandwidth: 3825.7500
+    total_assigned_ma_bandwidth: 72.6840
+    total_assigned_vlc_bandwidth: 60.4500
+    ma_snr: 30.0000
+    vlc_snr: 17.5660
+    ma_coverage_count: 77.1700
+    vlc_coverage_count: 6.7600
+    ma_power_efficiency: 0.0308
+    vlc_power_efficiency: 0.0286
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 58.7335
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3313
+
+Episode 80:
+  Frame: 16000
+  Mean Episode Reward: 0.0076
+  Total Episode Reward: 1.5188
+  Info Metrics:
+    total_data_rate: 1207.0128
+    ma_data_rate: 868.0869
+    vlc_data_rate: 338.9259
+    total_power: 36154.9844
+    total_ma_power: 20020.2930
+    total_vlc_power: 16134.6904
+    total_channel: 396.1250
+    total_ma_channel: 108.0000
+    total_vlc_channel: 288.1250
+    total_bandwidth: 3075.6500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2881.2500
+    total_assigned_ma_bandwidth: 102.3390
+    total_assigned_vlc_bandwidth: 47.1000
+    ma_snr: 30.0000
+    vlc_snr: 18.0272
+    ma_coverage_count: 79.3500
+    vlc_coverage_count: 6.1200
+    ma_power_efficiency: 0.0434
+    vlc_power_efficiency: 0.0210
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 9.9500
+    average_latency: 45.2455
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3209
+
+Episode 90:
+  Frame: 18000
+  Mean Episode Reward: 0.0082
+  Total Episode Reward: 1.6408
+  Info Metrics:
+    total_data_rate: 1173.4607
+    ma_data_rate: 802.1272
+    vlc_data_rate: 371.3334
+    total_power: 32827.3281
+    total_ma_power: 17960.1133
+    total_vlc_power: 14867.2109
+    total_channel: 358.9350
+    total_ma_channel: 108.0000
+    total_vlc_channel: 250.9350
+    total_bandwidth: 2703.7500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2509.3500
+    total_assigned_ma_bandwidth: 94.5630
+    total_assigned_vlc_bandwidth: 51.6000
+    ma_snr: 30.0000
+    vlc_snr: 18.2277
+    ma_coverage_count: 65.0700
+    vlc_coverage_count: 6.1350
+    ma_power_efficiency: 0.0453
+    vlc_power_efficiency: 0.0249
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 48.2517
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3000
+
+Episode 100:
+  Frame: 20000
+  Mean Episode Reward: 0.0098
+  Total Episode Reward: 1.9680
+  Info Metrics:
+    total_data_rate: 547.5427
+    ma_data_rate: 72.9068
+    vlc_data_rate: 474.6359
+    total_power: 14460.3623
+    total_ma_power: 54.1908
+    total_vlc_power: 14406.1729
+    total_channel: 296.2900
+    total_ma_channel: 107.9400
+    total_vlc_channel: 188.3500
+    total_bandwidth: 2077.7920
+    total_ma_bandwidth: 194.2920
+    total_vlc_bandwidth: 1883.5000
+    total_assigned_ma_bandwidth: 8.5950
+    total_assigned_vlc_bandwidth: 65.9500
+    ma_snr: 30.0000
+    vlc_snr: 17.7779
+    ma_coverage_count: 4.7750
+    vlc_coverage_count: 7.7100
+    ma_power_efficiency: 1.4140
+    vlc_power_efficiency: 0.0330
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 88.8225
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.2952
+
+Episode 110:
+  Frame: 22000
+  Mean Episode Reward: 0.0124
+  Total Episode Reward: 2.4880
+  Info Metrics:
+    total_data_rate: 809.3073
+    ma_data_rate: 446.0673
+    vlc_data_rate: 363.2400
+    total_power: 24967.1758
+    total_ma_power: 10030.4727
+    total_vlc_power: 14936.7021
+    total_channel: 318.0200
+    total_ma_channel: 30.0000
+    total_vlc_channel: 288.0200
+    total_bandwidth: 2934.2000
+    total_ma_bandwidth: 54.0000
+    total_vlc_bandwidth: 2880.2000
+    total_assigned_ma_bandwidth: 52.5870
+    total_assigned_vlc_bandwidth: 50.4500
+    ma_snr: 30.0000
+    vlc_snr: 17.9256
+    ma_coverage_count: 43.2000
+    vlc_coverage_count: 5.6750
+    ma_power_efficiency: 0.0445
+    vlc_power_efficiency: 0.0243
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 70.0133
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3056
+
+Episode 120:
+  Frame: 24000
+  Mean Episode Reward: 0.0127
+  Total Episode Reward: 2.5489
+  Info Metrics:
+    total_data_rate: 1813.5558
+    ma_data_rate: 1213.5352
+    vlc_data_rate: 600.0206
+    total_power: 49120.4648
+    total_ma_power: 30009.7441
+    total_vlc_power: 19110.7148
+    total_channel: 394.9050
+    total_ma_channel: 108.0000
+    total_vlc_channel: 286.9050
+    total_bandwidth: 3063.4500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2869.0500
+    total_assigned_ma_bandwidth: 143.0640
+    total_assigned_vlc_bandwidth: 83.3500
+    ma_snr: 30.0000
+    vlc_snr: 18.1637
+    ma_coverage_count: 120.0650
+    vlc_coverage_count: 9.8650
+    ma_power_efficiency: 0.0404
+    vlc_power_efficiency: 0.0314
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 25.1938
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3540
+
+Episode 130:
+  Frame: 26000
+  Mean Episode Reward: 0.0081
+  Total Episode Reward: 1.6287
+  Info Metrics:
+    total_data_rate: 580.9754
+    ma_data_rate: 94.2062
+    vlc_data_rate: 486.7692
+    total_power: 19480.2598
+    total_ma_power: 741.9727
+    total_vlc_power: 18738.2871
+    total_channel: 442.1100
+    total_ma_channel: 70.9450
+    total_vlc_channel: 371.1650
+    total_bandwidth: 3839.3510
+    total_ma_bandwidth: 127.7010
+    total_vlc_bandwidth: 3711.6500
+    total_assigned_ma_bandwidth: 11.1060
+    total_assigned_vlc_bandwidth: 67.6500
+    ma_snr: 30.0000
+    vlc_snr: 17.2578
+    ma_coverage_count: 7.2850
+    vlc_coverage_count: 7.7700
+    ma_power_efficiency: 1.2430
+    vlc_power_efficiency: 0.0259
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 87.5616
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3293
+
+Episode 140:
+  Frame: 28000
+  Mean Episode Reward: 0.0072
+  Total Episode Reward: 1.4467
+  Info Metrics:
+    total_data_rate: 1279.9692
+    ma_data_rate: 861.2161
+    vlc_data_rate: 418.7531
+    total_power: 33788.2070
+    total_ma_power: 19978.1602
+    total_vlc_power: 13810.0479
+    total_channel: 389.6550
+    total_ma_channel: 108.0000
+    total_vlc_channel: 281.6550
+    total_bandwidth: 3010.9500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2816.5500
+    total_assigned_ma_bandwidth: 101.5290
+    total_assigned_vlc_bandwidth: 58.2000
+    ma_snr: 30.0000
+    vlc_snr: 17.5417
+    ma_coverage_count: 84.2350
+    vlc_coverage_count: 6.5300
+    ma_power_efficiency: 0.0431
+    vlc_power_efficiency: 0.0301
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 46.0704
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3224
+
+Episode 150:
+  Frame: 30000
+  Mean Episode Reward: -0.0267
+  Total Episode Reward: -5.3364
+  Info Metrics:
+    total_data_rate: 1024.3836
+    ma_data_rate: 462.0228
+    vlc_data_rate: 562.3608
+    total_power: 35694.2539
+    total_ma_power: 20019.9434
+    total_vlc_power: 15674.3076
+    total_channel: 323.6850
+    total_ma_channel: 56.0000
+    total_vlc_channel: 267.6850
+    total_bandwidth: 2777.6500
+    total_ma_bandwidth: 100.8000
+    total_vlc_bandwidth: 2676.8500
+    total_assigned_ma_bandwidth: 54.4680
+    total_assigned_vlc_bandwidth: 78.1500
+    ma_snr: 30.0000
+    vlc_snr: 17.8168
+    ma_coverage_count: 79.8550
+    vlc_coverage_count: 8.4550
+    ma_power_efficiency: 0.0231
+    vlc_power_efficiency: 0.0360
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 66.4276
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3251
+
+Episode 160:
+  Frame: 32000
+  Mean Episode Reward: -0.0199
+  Total Episode Reward: -3.9868
+  Info Metrics:
+    total_data_rate: 1467.3499
+    ma_data_rate: 1024.9701
+    vlc_data_rate: 442.3798
+    total_power: 44545.6992
+    total_ma_power: 31143.6152
+    total_vlc_power: 13402.0889
+    total_channel: 421.1950
+    total_ma_channel: 82.0050
+    total_vlc_channel: 339.1900
+    total_bandwidth: 3539.5090
+    total_ma_bandwidth: 147.6090
+    total_vlc_bandwidth: 3391.9000
+    total_assigned_ma_bandwidth: 120.8340
+    total_assigned_vlc_bandwidth: 61.5000
+    ma_snr: 30.0000
+    vlc_snr: 17.0476
+    ma_coverage_count: 131.3300
+    vlc_coverage_count: 6.8500
+    ma_power_efficiency: 0.0338
+    vlc_power_efficiency: 0.0327
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 35.7153
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3267
+
+Episode 170:
+  Frame: 34000
+  Mean Episode Reward: 0.0097
+  Total Episode Reward: 1.9337
+  Info Metrics:
+    total_data_rate: 1382.7583
+    ma_data_rate: 856.1775
+    vlc_data_rate: 526.5808
+    total_power: 36737.1758
+    total_ma_power: 20019.7539
+    total_vlc_power: 16717.4219
+    total_channel: 389.7950
+    total_ma_channel: 84.1200
+    total_vlc_channel: 305.6750
+    total_bandwidth: 3208.1660
+    total_ma_bandwidth: 151.4160
+    total_vlc_bandwidth: 3056.7500
+    total_assigned_ma_bandwidth: 100.9350
+    total_assigned_vlc_bandwidth: 73.1500
+    ma_snr: 30.0000
+    vlc_snr: 17.9441
+    ma_coverage_count: 79.8850
+    vlc_coverage_count: 8.5450
+    ma_power_efficiency: 0.0428
+    vlc_power_efficiency: 0.0317
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 45.1440
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3299
+
+Episode 180:
+  Frame: 36000
+  Mean Episode Reward: 0.0093
+  Total Episode Reward: 1.8509
+  Info Metrics:
+    total_data_rate: 1639.3484
+    ma_data_rate: 1218.7265
+    vlc_data_rate: 420.6219
+    total_power: 45740.0938
+    total_ma_power: 27234.8008
+    total_vlc_power: 18505.2969
+    total_channel: 399.6400
+    total_ma_channel: 82.0000
+    total_vlc_channel: 317.6400
+    total_bandwidth: 3324.0000
+    total_ma_bandwidth: 147.6000
+    total_vlc_bandwidth: 3176.4000
+    total_assigned_ma_bandwidth: 143.6760
+    total_assigned_vlc_bandwidth: 58.4500
+    ma_snr: 30.0000
+    vlc_snr: 16.7523
+    ma_coverage_count: 112.5250
+    vlc_coverage_count: 6.0050
+    ma_power_efficiency: 0.0450
+    vlc_power_efficiency: 0.0228
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 25.1641
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3332
+
+Episode 190:
+  Frame: 38000
+  Mean Episode Reward: 0.0102
+  Total Episode Reward: 2.0479
+  Info Metrics:
+    total_data_rate: 1006.5388
+    ma_data_rate: 474.0849
+    vlc_data_rate: 532.4539
+    total_power: 27492.0254
+    total_ma_power: 9346.8252
+    total_vlc_power: 18145.1973
+    total_channel: 379.2750
+    total_ma_channel: 108.0000
+    total_vlc_channel: 271.2750
+    total_bandwidth: 2907.1500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2712.7500
+    total_assigned_ma_bandwidth: 55.8900
+    total_assigned_vlc_bandwidth: 74.0000
+    ma_snr: 30.0000
+    vlc_snr: 17.7709
+    ma_coverage_count: 41.2250
+    vlc_coverage_count: 9.7150
+    ma_power_efficiency: 0.0896
+    vlc_power_efficiency: 0.0292
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 66.2776
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3116
+
+Episode 200:
+  Frame: 40000
+  Mean Episode Reward: 0.0140
+  Total Episode Reward: 2.7993
+  Info Metrics:
+    total_data_rate: 2068.3368
+    ma_data_rate: 1476.7631
+    vlc_data_rate: 591.5738
+    total_power: 57015.2383
+    total_ma_power: 39999.3320
+    total_vlc_power: 17015.9023
+    total_channel: 377.0000
+    total_ma_channel: 108.0000
+    total_vlc_channel: 269.0000
+    total_bandwidth: 2884.4000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2690.0000
+    total_assigned_ma_bandwidth: 174.0960
+    total_assigned_vlc_bandwidth: 82.2000
+    ma_snr: 30.0000
+    vlc_snr: 16.9103
+    ma_coverage_count: 154.5650
+    vlc_coverage_count: 8.6800
+    ma_power_efficiency: 0.0369
+    vlc_power_efficiency: 0.0348
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 9.6963
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3412
+
+Episode 210:
+  Frame: 42000
+  Mean Episode Reward: -0.0173
+  Total Episode Reward: -3.4669
+  Info Metrics:
+    total_data_rate: 1785.0735
+    ma_data_rate: 1142.2316
+    vlc_data_rate: 642.8419
+    total_power: 52703.9102
+    total_ma_power: 32649.8672
+    total_vlc_power: 20054.0449
+    total_channel: 352.9000
+    total_ma_channel: 82.0000
+    total_vlc_channel: 270.9000
+    total_bandwidth: 2856.6000
+    total_ma_bandwidth: 147.6000
+    total_vlc_bandwidth: 2709.0000
+    total_assigned_ma_bandwidth: 134.6580
+    total_assigned_vlc_bandwidth: 89.3000
+    ma_snr: 30.0000
+    vlc_snr: 17.4254
+    ma_coverage_count: 138.4150
+    vlc_coverage_count: 9.9200
+    ma_power_efficiency: 0.0357
+    vlc_power_efficiency: 0.0321
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 28.6608
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3516
+
+Episode 220:
+  Frame: 44000
+  Mean Episode Reward: 0.0079
+  Total Episode Reward: 1.5834
+  Info Metrics:
+    total_data_rate: 905.4512
+    ma_data_rate: 485.6126
+    vlc_data_rate: 419.8386
+    total_power: 24365.9043
+    total_ma_power: 10029.9658
+    total_vlc_power: 14335.9375
+    total_channel: 422.0050
+    total_ma_channel: 108.0000
+    total_vlc_channel: 314.0050
+    total_bandwidth: 3334.4500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3140.0500
+    total_assigned_ma_bandwidth: 57.2490
+    total_assigned_vlc_bandwidth: 58.3500
+    ma_snr: 30.0000
+    vlc_snr: 17.4165
+    ma_coverage_count: 39.4850
+    vlc_coverage_count: 6.9000
+    ma_power_efficiency: 0.0484
+    vlc_power_efficiency: 0.0293
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 66.1843
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3076
+
+Episode 230:
+  Frame: 46000
+  Mean Episode Reward: 0.0053
+  Total Episode Reward: 1.0619
+  Info Metrics:
+    total_data_rate: 796.5938
+    ma_data_rate: 460.2670
+    vlc_data_rate: 336.3268
+    total_power: 19333.5293
+    total_ma_power: 7312.3130
+    total_vlc_power: 12021.2158
+    total_channel: 437.2700
+    total_ma_channel: 108.0000
+    total_vlc_channel: 329.2700
+    total_bandwidth: 3487.1000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3292.7000
+    total_assigned_ma_bandwidth: 54.2610
+    total_assigned_vlc_bandwidth: 46.7500
+    ma_snr: 30.0000
+    vlc_snr: 17.4412
+    ma_coverage_count: 37.5700
+    vlc_coverage_count: 5.7000
+    ma_power_efficiency: 0.0674
+    vlc_power_efficiency: 0.0280
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 68.5210
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3041
+
+Episode 240:
+  Frame: 48000
+  Mean Episode Reward: 0.0103
+  Total Episode Reward: 2.0508
+  Info Metrics:
+    total_data_rate: 1864.0752
+    ma_data_rate: 1249.1870
+    vlc_data_rate: 614.8882
+    total_power: 51081.5781
+    total_ma_power: 30011.3301
+    total_vlc_power: 21070.2500
+    total_channel: 547.1250
+    total_ma_channel: 108.0000
+    total_vlc_channel: 439.1250
+    total_bandwidth: 4585.6500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 4391.2500
+    total_assigned_ma_bandwidth: 147.2670
+    total_assigned_vlc_bandwidth: 85.4500
+    ma_snr: 30.0000
+    vlc_snr: 17.6021
+    ma_coverage_count: 119.0850
+    vlc_coverage_count: 9.3250
+    ma_power_efficiency: 0.0416
+    vlc_power_efficiency: 0.0292
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 22.7975
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3720
+
+Episode 250:
+  Frame: 50000
+  Mean Episode Reward: 0.0080
+  Total Episode Reward: 1.5987
+  Info Metrics:
+    total_data_rate: 1214.1115
+    ma_data_rate: 833.0458
+    vlc_data_rate: 381.0657
+    total_power: 31124.6094
+    total_ma_power: 18105.9395
+    total_vlc_power: 13018.6709
+    total_channel: 349.3950
+    total_ma_channel: 82.0000
+    total_vlc_channel: 267.3950
+    total_bandwidth: 2821.5500
+    total_ma_bandwidth: 147.6000
+    total_vlc_bandwidth: 2673.9500
+    total_assigned_ma_bandwidth: 98.2080
+    total_assigned_vlc_bandwidth: 52.9500
+    ma_snr: 30.0000
+    vlc_snr: 17.0480
+    ma_coverage_count: 71.5200
+    vlc_coverage_count: 5.6650
+    ma_power_efficiency: 0.0466
+    vlc_power_efficiency: 0.0293
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 47.8348
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3052
+
+Episode 260:
+  Frame: 52000
+  Mean Episode Reward: 0.0100
+  Total Episode Reward: 2.0046
+  Info Metrics:
+    total_data_rate: 890.2719
+    ma_data_rate: 301.0935
+    vlc_data_rate: 589.1784
+    total_power: 19594.9492
+    total_ma_power: 1750.7635
+    total_vlc_power: 17844.1855
+    total_channel: 573.0400
+    total_ma_channel: 108.0000
+    total_vlc_channel: 465.0400
+    total_bandwidth: 4844.8000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 4650.4000
+    total_assigned_ma_bandwidth: 35.4960
+    total_assigned_vlc_bandwidth: 81.8500
+    ma_snr: 30.0000
+    vlc_snr: 17.1155
+    ma_coverage_count: 22.2050
+    vlc_coverage_count: 9.5500
+    ma_power_efficiency: 0.8438
+    vlc_power_efficiency: 0.0330
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 73.8826
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3396
+
+Episode 270:
+  Frame: 54000
+  Mean Episode Reward: 0.0133
+  Total Episode Reward: 2.6649
+  Info Metrics:
+    total_data_rate: 1875.8607
+    ma_data_rate: 1217.9631
+    vlc_data_rate: 657.8977
+    total_power: 49445.2500
+    total_ma_power: 30010.0156
+    total_vlc_power: 19435.2344
+    total_channel: 394.5900
+    total_ma_channel: 108.0000
+    total_vlc_channel: 286.5900
+    total_bandwidth: 3060.3000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2865.9000
+    total_assigned_ma_bandwidth: 143.5860
+    total_assigned_vlc_bandwidth: 91.4500
+    ma_snr: 30.0000
+    vlc_snr: 17.1687
+    ma_coverage_count: 121.1550
+    vlc_coverage_count: 9.8100
+    ma_power_efficiency: 0.0406
+    vlc_power_efficiency: 0.0339
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 24.4744
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3447
+
+Episode 280:
+  Frame: 56000
+  Mean Episode Reward: 0.0089
+  Total Episode Reward: 1.7733
+  Info Metrics:
+    total_data_rate: 1295.0607
+    ma_data_rate: 864.1171
+    vlc_data_rate: 430.9436
+    total_power: 37896.9844
+    total_ma_power: 20014.0918
+    total_vlc_power: 17882.8926
+    total_channel: 475.0150
+    total_ma_channel: 107.0500
+    total_vlc_channel: 367.9650
+    total_bandwidth: 3872.3400
+    total_ma_bandwidth: 192.6900
+    total_vlc_bandwidth: 3679.6500
+    total_assigned_ma_bandwidth: 101.8710
+    total_assigned_vlc_bandwidth: 59.9000
+    ma_snr: 30.0000
+    vlc_snr: 17.9659
+    ma_coverage_count: 71.7400
+    vlc_coverage_count: 7.8000
+    ma_power_efficiency: 0.0432
+    vlc_power_efficiency: 0.0241
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 45.0085
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3372
+
+Episode 290:
+  Frame: 58000
+  Mean Episode Reward: -0.0284
+  Total Episode Reward: -5.6828
+  Info Metrics:
+    total_data_rate: 862.4704
+    ma_data_rate: 399.7276
+    vlc_data_rate: 462.7428
+    total_power: 31644.5996
+    total_ma_power: 17322.9648
+    total_vlc_power: 14321.6348
+    total_channel: 438.5950
+    total_ma_channel: 56.0000
+    total_vlc_channel: 382.5950
+    total_bandwidth: 3926.7500
+    total_ma_bandwidth: 100.8000
+    total_vlc_bandwidth: 3825.9500
+    total_assigned_ma_bandwidth: 47.1240
+    total_assigned_vlc_bandwidth: 64.3000
+    ma_snr: 30.0000
+    vlc_snr: 17.2462
+    ma_coverage_count: 69.9500
+    vlc_coverage_count: 7.2500
+    ma_power_efficiency: 0.0232
+    vlc_power_efficiency: 0.0324
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 70.4481
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3200
+
+Episode 300:
+  Frame: 60000
+  Mean Episode Reward: 0.0116
+  Total Episode Reward: 2.3158
+  Info Metrics:
+    total_data_rate: 1819.0361
+    ma_data_rate: 1202.9237
+    vlc_data_rate: 616.1124
+    total_power: 49441.8594
+    total_ma_power: 29636.9805
+    total_vlc_power: 19804.8770
+    total_channel: 531.1650
+    total_ma_channel: 108.0000
+    total_vlc_channel: 423.1650
+    total_bandwidth: 4426.0500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 4231.6500
+    total_assigned_ma_bandwidth: 141.8130
+    total_assigned_vlc_bandwidth: 85.6000
+    ma_snr: 30.0000
+    vlc_snr: 17.2780
+    ma_coverage_count: 112.8600
+    vlc_coverage_count: 9.3750
+    ma_power_efficiency: 0.0406
+    vlc_power_efficiency: 0.0311
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 25.7044
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3635
+
+Episode 310:
+  Frame: 62000
+  Mean Episode Reward: 0.0080
+  Total Episode Reward: 1.5959
+  Info Metrics:
+    total_data_rate: 1343.0335
+    ma_data_rate: 851.1389
+    vlc_data_rate: 491.8946
+    total_power: 38484.9570
+    total_ma_power: 20440.4043
+    total_vlc_power: 18044.5527
+    total_channel: 462.3900
+    total_ma_channel: 72.9000
+    total_vlc_channel: 389.4900
+    total_bandwidth: 4026.1200
+    total_ma_bandwidth: 131.2200
+    total_vlc_bandwidth: 3894.9000
+    total_assigned_ma_bandwidth: 100.3410
+    total_assigned_vlc_bandwidth: 68.3500
+    ma_snr: 30.0000
+    vlc_snr: 16.8288
+    ma_coverage_count: 79.9250
+    vlc_coverage_count: 7.1150
+    ma_power_efficiency: 0.0416
+    vlc_power_efficiency: 0.0274
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 44.1546
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3423
+
+Episode 320:
+  Frame: 64000
+  Mean Episode Reward: 0.0071
+  Total Episode Reward: 1.4229
+  Info Metrics:
+    total_data_rate: 1631.9713
+    ma_data_rate: 1153.9120
+    vlc_data_rate: 478.0593
+    total_power: 43593.5547
+    total_ma_power: 30011.0527
+    total_vlc_power: 13582.5059
+    total_channel: 508.1100
+    total_ma_channel: 92.9450
+    total_vlc_channel: 415.1650
+    total_bandwidth: 4318.9510
+    total_ma_bandwidth: 167.3010
+    total_vlc_bandwidth: 4151.6500
+    total_assigned_ma_bandwidth: 136.0350
+    total_assigned_vlc_bandwidth: 66.4500
+    ma_snr: 30.0000
+    vlc_snr: 17.2432
+    ma_coverage_count: 113.9250
+    vlc_coverage_count: 7.9250
+    ma_power_efficiency: 0.0384
+    vlc_power_efficiency: 0.0351
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 28.3184
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3388
+
+Episode 330:
+  Frame: 66000
+  Mean Episode Reward: 0.0092
+  Total Episode Reward: 1.8367
+  Info Metrics:
+    total_data_rate: 1723.0281
+    ma_data_rate: 1230.7122
+    vlc_data_rate: 492.3159
+    total_power: 42496.0781
+    total_ma_power: 29977.3301
+    total_vlc_power: 12518.7500
+    total_channel: 443.9400
+    total_ma_channel: 108.0000
+    total_vlc_channel: 335.9400
+    total_bandwidth: 3553.8000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3359.4000
+    total_assigned_ma_bandwidth: 145.0890
+    total_assigned_vlc_bandwidth: 68.4000
+    ma_snr: 30.0000
+    vlc_snr: 17.3479
+    ma_coverage_count: 114.7850
+    vlc_coverage_count: 7.3100
+    ma_power_efficiency: 0.0411
+    vlc_power_efficiency: 0.0395
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 24.4691
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3401
+
+Episode 340:
+  Frame: 68000
+  Mean Episode Reward: 0.0114
+  Total Episode Reward: 2.2882
+  Info Metrics:
+    total_data_rate: 2007.3334
+    ma_data_rate: 1388.1298
+    vlc_data_rate: 619.2037
+    total_power: 50890.8086
+    total_ma_power: 33044.0898
+    total_vlc_power: 17846.7207
+    total_channel: 431.6600
+    total_ma_channel: 103.7150
+    total_vlc_channel: 327.9450
+    total_bandwidth: 3466.1370
+    total_ma_bandwidth: 186.6870
+    total_vlc_bandwidth: 3279.4500
+    total_assigned_ma_bandwidth: 163.6470
+    total_assigned_vlc_bandwidth: 86.0500
+    ma_snr: 30.0000
+    vlc_snr: 17.4763
+    ma_coverage_count: 138.9800
+    vlc_coverage_count: 9.5950
+    ma_power_efficiency: 0.0423
+    vlc_power_efficiency: 0.0346
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 14.6583
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3491
+
+Episode 350:
+  Frame: 70000
+  Mean Episode Reward: 0.0100
+  Total Episode Reward: 1.9938
+  Info Metrics:
+    total_data_rate: 1370.0955
+    ma_data_rate: 892.6691
+    vlc_data_rate: 477.4265
+    total_power: 34648.8672
+    total_ma_power: 20119.2324
+    total_vlc_power: 14529.6348
+    total_channel: 387.4300
+    total_ma_channel: 108.0000
+    total_vlc_channel: 279.4300
+    total_bandwidth: 2988.7000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 2794.3000
+    total_assigned_ma_bandwidth: 105.2370
+    total_assigned_vlc_bandwidth: 66.3500
+    ma_snr: 30.0000
+    vlc_snr: 17.1367
+    ma_coverage_count: 86.1350
+    vlc_coverage_count: 8.3050
+    ma_power_efficiency: 0.0444
+    vlc_power_efficiency: 0.0328
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 43.0464
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3300
+
+Episode 360:
+  Frame: 72000
+  Mean Episode Reward: 0.0088
+  Total Episode Reward: 1.7689
+  Info Metrics:
+    total_data_rate: 1294.7618
+    ma_data_rate: 869.6901
+    vlc_data_rate: 425.0717
+    total_power: 35452.1641
+    total_ma_power: 20048.8945
+    total_vlc_power: 15403.2695
+    total_channel: 362.0150
+    total_ma_channel: 100.0250
+    total_vlc_channel: 261.9900
+    total_bandwidth: 2799.9450
+    total_ma_bandwidth: 180.0450
+    total_vlc_bandwidth: 2619.9000
+    total_assigned_ma_bandwidth: 102.5280
+    total_assigned_vlc_bandwidth: 59.0500
+    ma_snr: 30.0000
+    vlc_snr: 17.2073
+    ma_coverage_count: 87.7250
+    vlc_coverage_count: 6.4650
+    ma_power_efficiency: 0.0434
+    vlc_power_efficiency: 0.0276
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 44.9312
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3203
+
+Episode 370:
+  Frame: 74000
+  Mean Episode Reward: 0.0095
+  Total Episode Reward: 1.9032
+  Info Metrics:
+    total_data_rate: 1645.9050
+    ma_data_rate: 1124.7493
+    vlc_data_rate: 521.1557
+    total_power: 41811.2383
+    total_ma_power: 21802.7109
+    total_vlc_power: 20008.5312
+    total_channel: 422.4300
+    total_ma_channel: 94.8500
+    total_vlc_channel: 327.5800
+    total_bandwidth: 3446.5300
+    total_ma_bandwidth: 170.7300
+    total_vlc_bandwidth: 3275.8000
+    total_assigned_ma_bandwidth: 132.5970
+    total_assigned_vlc_bandwidth: 72.4000
+    ma_snr: 30.0000
+    vlc_snr: 17.2457
+    ma_coverage_count: 109.7800
+    vlc_coverage_count: 7.9250
+    ma_power_efficiency: 0.0513
+    vlc_power_efficiency: 0.0261
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 29.2011
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3570
+
+Episode 380:
+  Frame: 76000
+  Mean Episode Reward: 0.0137
+  Total Episode Reward: 2.7408
+  Info Metrics:
+    total_data_rate: 1518.3717
+    ma_data_rate: 802.9670
+    vlc_data_rate: 715.4047
+    total_power: 34409.9453
+    total_ma_power: 14641.9629
+    total_vlc_power: 19767.9805
+    total_channel: 395.1450
+    total_ma_channel: 101.8650
+    total_vlc_channel: 293.2800
+    total_bandwidth: 3116.1570
+    total_ma_bandwidth: 183.3570
+    total_vlc_bandwidth: 2932.8000
+    total_assigned_ma_bandwidth: 94.6620
+    total_assigned_vlc_bandwidth: 99.4000
+    ma_snr: 30.0000
+    vlc_snr: 17.4643
+    ma_coverage_count: 78.7300
+    vlc_coverage_count: 10.8550
+    ma_power_efficiency: 0.0586
+    vlc_power_efficiency: 0.0362
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 47.3583
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3224
+
+Episode 390:
+  Frame: 78000
+  Mean Episode Reward: 0.0109
+  Total Episode Reward: 2.1898
+  Info Metrics:
+    total_data_rate: 1090.9570
+    ma_data_rate: 473.7032
+    vlc_data_rate: 617.2538
+    total_power: 32844.1797
+    total_ma_power: 10024.4258
+    total_vlc_power: 22819.7520
+    total_channel: 491.4900
+    total_ma_channel: 108.0000
+    total_vlc_channel: 383.4900
+    total_bandwidth: 4029.3000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3834.9000
+    total_assigned_ma_bandwidth: 55.8450
+    total_assigned_vlc_bandwidth: 85.7500
+    ma_snr: 30.0000
+    vlc_snr: 17.2224
+    ma_coverage_count: 39.2750
+    vlc_coverage_count: 9.6850
+    ma_power_efficiency: 0.0473
+    vlc_power_efficiency: 0.0270
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 65.8004
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3515
+
+Episode 400:
+  Frame: 80000
+  Mean Episode Reward: -0.0034
+  Total Episode Reward: -0.6872
+  Info Metrics:
+    total_data_rate: 1503.9960
+    ma_data_rate: 865.7203
+    vlc_data_rate: 638.2757
+    total_power: 44979.0938
+    total_ma_power: 23138.2891
+    total_vlc_power: 21840.8047
+    total_channel: 289.2850
+    total_ma_channel: 69.5550
+    total_vlc_channel: 219.7300
+    total_bandwidth: 2322.4990
+    total_ma_bandwidth: 125.1990
+    total_vlc_bandwidth: 2197.3000
+    total_assigned_ma_bandwidth: 102.0600
+    total_assigned_vlc_bandwidth: 88.7000
+    ma_snr: 30.0000
+    vlc_snr: 17.4459
+    ma_coverage_count: 94.9600
+    vlc_coverage_count: 10.1800
+    ma_power_efficiency: 0.0383
+    vlc_power_efficiency: 0.0296
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 43.9247
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3464
+
+Episode 410:
+  Frame: 82000
+  Mean Episode Reward: 0.0085
+  Total Episode Reward: 1.6992
+  Info Metrics:
+    total_data_rate: 1571.8775
+    ma_data_rate: 1172.9975
+    vlc_data_rate: 398.8800
+    total_power: 40259.5156
+    total_ma_power: 26864.6191
+    total_vlc_power: 13394.8945
+    total_channel: 328.6850
+    total_ma_channel: 82.0100
+    total_vlc_channel: 246.6750
+    total_bandwidth: 2614.3680
+    total_ma_bandwidth: 147.6180
+    total_vlc_bandwidth: 2466.7500
+    total_assigned_ma_bandwidth: 138.2850
+    total_assigned_vlc_bandwidth: 55.4000
+    ma_snr: 30.0000
+    vlc_snr: 17.3133
+    ma_coverage_count: 109.5350
+    vlc_coverage_count: 6.3650
+    ma_power_efficiency: 0.0441
+    vlc_power_efficiency: 0.0295
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 27.6636
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3106
+
+Episode 420:
+  Frame: 84000
+  Mean Episode Reward: 0.0133
+  Total Episode Reward: 2.6508
+  Info Metrics:
+    total_data_rate: 1846.7311
+    ma_data_rate: 1205.7483
+    vlc_data_rate: 640.9828
+    total_power: 46363.2969
+    total_ma_power: 27436.9551
+    total_vlc_power: 18926.3438
+    total_channel: 442.6600
+    total_ma_channel: 108.0000
+    total_vlc_channel: 334.6600
+    total_bandwidth: 3541.0000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3346.6000
+    total_assigned_ma_bandwidth: 142.1460
+    total_assigned_vlc_bandwidth: 89.1500
+    ma_snr: 30.0000
+    vlc_snr: 17.5593
+    ma_coverage_count: 112.0450
+    vlc_coverage_count: 10.4350
+    ma_power_efficiency: 0.0449
+    vlc_power_efficiency: 0.0339
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 25.2624
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3508
+
+Episode 430:
+  Frame: 86000
+  Mean Episode Reward: 0.0087
+  Total Episode Reward: 1.7413
+  Info Metrics:
+    total_data_rate: 1046.4803
+    ma_data_rate: 578.4447
+    vlc_data_rate: 468.0357
+    total_power: 25651.7344
+    total_ma_power: 10933.1992
+    total_vlc_power: 14718.5361
+    total_channel: 413.6750
+    total_ma_channel: 108.0000
+    total_vlc_channel: 305.6750
+    total_bandwidth: 3251.1500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3056.7500
+    total_assigned_ma_bandwidth: 68.1930
+    total_assigned_vlc_bandwidth: 65.0500
+    ma_snr: 30.0000
+    vlc_snr: 17.5732
+    ma_coverage_count: 51.3750
+    vlc_coverage_count: 8.6600
+    ma_power_efficiency: 0.0543
+    vlc_power_efficiency: 0.0319
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 60.7441
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3112
+
+Episode 440:
+  Frame: 88000
+  Mean Episode Reward: 0.0121
+  Total Episode Reward: 2.4263
+  Info Metrics:
+    total_data_rate: 1439.3584
+    ma_data_rate: 756.4746
+    vlc_data_rate: 682.8838
+    total_power: 36299.2656
+    total_ma_power: 16400.7891
+    total_vlc_power: 19898.4805
+    total_channel: 425.7400
+    total_ma_channel: 88.9950
+    total_vlc_channel: 336.7450
+    total_bandwidth: 3527.6410
+    total_ma_bandwidth: 160.1910
+    total_vlc_bandwidth: 3367.4500
+    total_assigned_ma_bandwidth: 89.1810
+    total_assigned_vlc_bandwidth: 94.9000
+    ma_snr: 30.0000
+    vlc_snr: 17.7114
+    ma_coverage_count: 75.1550
+    vlc_coverage_count: 10.5900
+    ma_power_efficiency: 0.0475
+    vlc_power_efficiency: 0.0344
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 48.5799
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3497
+
+Episode 450:
+  Frame: 90000
+  Mean Episode Reward: 0.0126
+  Total Episode Reward: 2.5206
+  Info Metrics:
+    total_data_rate: 1796.7190
+    ma_data_rate: 1168.7987
+    vlc_data_rate: 627.9203
+    total_power: 43830.4883
+    total_ma_power: 25612.9434
+    total_vlc_power: 18217.5469
+    total_channel: 477.3400
+    total_ma_channel: 108.0000
+    total_vlc_channel: 369.3400
+    total_bandwidth: 3887.8000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3693.4000
+    total_assigned_ma_bandwidth: 137.7900
+    total_assigned_vlc_bandwidth: 87.2500
+    ma_snr: 30.0000
+    vlc_snr: 17.0537
+    ma_coverage_count: 109.5450
+    vlc_coverage_count: 9.3100
+    ma_power_efficiency: 0.0463
+    vlc_power_efficiency: 0.0346
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 26.6626
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3582
+
+Episode 460:
+  Frame: 92000
+  Mean Episode Reward: 0.0084
+  Total Episode Reward: 1.6897
+  Info Metrics:
+    total_data_rate: 1268.1854
+    ma_data_rate: 872.8964
+    vlc_data_rate: 395.2890
+    total_power: 34775.0586
+    total_ma_power: 19990.1035
+    total_vlc_power: 14784.9541
+    total_channel: 453.5750
+    total_ma_channel: 101.1450
+    total_vlc_channel: 352.4300
+    total_bandwidth: 3706.3610
+    total_ma_bandwidth: 182.0610
+    total_vlc_bandwidth: 3524.3000
+    total_assigned_ma_bandwidth: 102.9060
+    total_assigned_vlc_bandwidth: 54.9500
+    ma_snr: 30.0000
+    vlc_snr: 17.5623
+    ma_coverage_count: 79.7950
+    vlc_coverage_count: 5.7500
+    ma_power_efficiency: 0.0437
+    vlc_power_efficiency: 0.0266
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 45.0823
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3177
+
+Episode 470:
+  Frame: 94000
+  Mean Episode Reward: 0.0101
+  Total Episode Reward: 2.0162
+  Info Metrics:
+    total_data_rate: 1210.3009
+    ma_data_rate: 676.2390
+    vlc_data_rate: 534.0619
+    total_power: 26195.4902
+    total_ma_power: 11670.8311
+    total_vlc_power: 14524.6602
+    total_channel: 465.8400
+    total_ma_channel: 108.0000
+    total_vlc_channel: 357.8400
+    total_bandwidth: 3772.8000
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3578.4000
+    total_assigned_ma_bandwidth: 79.7220
+    total_assigned_vlc_bandwidth: 74.2000
+    ma_snr: 30.0000
+    vlc_snr: 17.9946
+    ma_coverage_count: 62.2300
+    vlc_coverage_count: 8.1850
+    ma_power_efficiency: 0.0579
+    vlc_power_efficiency: 0.0369
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 54.6139
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3344
+
+Episode 480:
+  Frame: 96000
+  Mean Episode Reward: 0.0158
+  Total Episode Reward: 3.1642
+  Info Metrics:
+    total_data_rate: 2112.3218
+    ma_data_rate: 1390.5727
+    vlc_data_rate: 721.7491
+    total_power: 51718.9062
+    total_ma_power: 31750.6504
+    total_vlc_power: 19968.2578
+    total_channel: 495.2350
+    total_ma_channel: 108.0000
+    total_vlc_channel: 387.2350
+    total_bandwidth: 4066.7500
+    total_ma_bandwidth: 194.4000
+    total_vlc_bandwidth: 3872.3500
+    total_assigned_ma_bandwidth: 163.9350
+    total_assigned_vlc_bandwidth: 100.3000
+    ma_snr: 30.0000
+    vlc_snr: 16.9331
+    ma_coverage_count: 127.3750
+    vlc_coverage_count: 10.3850
+    ma_power_efficiency: 0.0438
+    vlc_power_efficiency: 0.0360
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 14.1534
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3642
+
+Episode 490:
+  Frame: 98000
+  Mean Episode Reward: 0.0086
+  Total Episode Reward: 1.7252
+  Info Metrics:
+    total_data_rate: 943.6440
+    ma_data_rate: 449.1974
+    vlc_data_rate: 494.4466
+    total_power: 25173.7656
+    total_ma_power: 10054.3916
+    total_vlc_power: 15119.3721
+    total_channel: 381.7150
+    total_ma_channel: 56.2600
+    total_vlc_channel: 325.4550
+    total_bandwidth: 3355.8180
+    total_ma_bandwidth: 101.2680
+    total_vlc_bandwidth: 3254.5500
+    total_assigned_ma_bandwidth: 52.9560
+    total_assigned_vlc_bandwidth: 68.7000
+    ma_snr: 30.0000
+    vlc_snr: 17.3945
+    ma_coverage_count: 46.0150
+    vlc_coverage_count: 7.2850
+    ma_power_efficiency: 0.0447
+    vlc_power_efficiency: 0.0326
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 67.5557
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3185
+
+Episode 500:
+  Frame: 100000
+  Mean Episode Reward: 0.0154
+  Total Episode Reward: 3.0854
+  Info Metrics:
+    total_data_rate: 1416.7769
+    ma_data_rate: 765.1776
+    vlc_data_rate: 651.5993
+    total_power: 31501.6680
+    total_ma_power: 12285.9248
+    total_vlc_power: 19215.7422
+    total_channel: 403.5700
+    total_ma_channel: 86.7950
+    total_vlc_channel: 316.7750
+    total_bandwidth: 3323.9810
+    total_ma_bandwidth: 156.2310
+    total_vlc_bandwidth: 3167.7500
+    total_assigned_ma_bandwidth: 90.2070
+    total_assigned_vlc_bandwidth: 90.5500
+    ma_snr: 30.0000
+    vlc_snr: 17.7541
+    ma_coverage_count: 66.2950
+    vlc_coverage_count: 9.7950
+    ma_power_efficiency: 0.0693
+    vlc_power_efficiency: 0.0339
+    avg_ma_bandwidth_per_user: 1.8000
+    avg_vlc_bandwidth_per_user: 10.0000
+    average_latency: 48.2672
+    TimeLimit.truncated: 0.0000
+    terminal_observation: 0.3496
+
